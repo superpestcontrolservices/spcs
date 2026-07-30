@@ -508,6 +508,6 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 }
 
 @media (max-width: 480px) {
-  .navbar__logo img { height: 48px; }
+  .navbar__logo img { height: 100px; }
   .hero h1 { font-size: 30px; }
 }
